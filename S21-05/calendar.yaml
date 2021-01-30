@@ -1,0 +1,17 @@
+# Configure a course calendar
+# Used for title of web page
+pageTitle : "Latin 102-05, S'21: course schedule"
+# YYYY-MM-DD
+firstDay: "2021-02-01"
+
+# Pattern of class meetings: "mwf", "tt" or "wf"
+schedule : "mwf"
+
+# Number of weeks the calendar should run for
+totalWeeks : 14
+
+fixedDates:
+  - 2021-04-02 == Easter break (Fri.)
+  - 2021-04-05 == Easter break (Mon.)
+  - 2021-04-28 == Academic conference (Wed.)
+  - 2012-05-07 == Last day of classes (Fri.)
