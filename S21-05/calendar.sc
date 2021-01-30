@@ -1,7 +1,7 @@
 import edu.holycross.shot.coursecal._
 import java.io.PrintWriter
 
-val courseHeaderMd = "# Latin 102-04 S21: daily schedule"
+val courseHeaderMd = "# Latin 102-05 S21: daily schedule"
 
 def header : String = {
   s"---\nlayout: page\ntitle: Daily schedule\nnav_order: 2\n---\n\n" + courseHeaderMd + "\n\n"

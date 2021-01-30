@@ -4,11 +4,7 @@ title: Daily schedule
 nav_order: 2
 ---
 
-# Latin 102-04 S21: daily schedule
-
-
 # Latin 102-05 S21: daily schedule
-
 
 
 ## 1. Review of Latin 101
