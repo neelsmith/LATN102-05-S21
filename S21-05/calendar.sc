@@ -4,8 +4,9 @@ import java.io.PrintWriter
 val courseHeaderMd = "# Latin 102-05 S21: daily schedule"
 
 def header : String = {
-  s"---\nlayout: page\ntitle: Daily schedule\nnav_order: 2\n---\n\n" + courseHeaderMd + "\n\n"
+  s"---\nlayout: page\ntitle: Daily schedule\nnav_order: 2\nhas_children:  true\n---\n\n" + courseHeaderMd + "\n\n"
 }
+
 
 def schedule: Unit = {
   val pg = s"ghpages/schedule/index.md"
