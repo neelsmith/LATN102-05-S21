@@ -13,12 +13,11 @@ nav_order: 0
 Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/91307359728?pwd=YUNYUDNjTGE2YVpzRmR1VjQ1VFRVQT09)
 
 ## Announcements
-Welcome back!
 
 
-- **Feb. 1-2**: Refresh your memory of Latin by [trying these review questions before coming to class](assignments/welcomeback/)!
+- **Feb. 1**: Slides from class 1 added to course calendar.  (I'll do this regularly for classes with useful slide stacks.)
 - **Feb. 1-2**:   **No CBL lab** this week.  CBL lab begins Feb. 8/9.
-
+- [earlier announcements](./oldnews/)
 
 
 ## This week in summary
