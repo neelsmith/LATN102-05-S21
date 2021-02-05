@@ -16,6 +16,7 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 ## Announcements
 
+- **Feb. 5**: Monday assignment to be added after quick review of quiz 1!
 - **Feb. 5**: [breakout rooms today](./breakouts/)
 - **Feb. 5**: CBL lab sections begin next week *at the same times as last semester* (two on Monday, one on Tuesday, **not** on Wednesday as listed in STAR!)
 - **Feb. 5**: [first translation assignment now available](./checklist/translation1/)
