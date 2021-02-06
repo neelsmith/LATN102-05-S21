@@ -24,6 +24,9 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 ## This week in summary
 
+Feb. 8-12:
+
+
 - **Main language features**: Review: class assignments review common pronouns and continue to review verb forms and constructions. New: fifth declension nouns; future indicative tense.
 - **Vocabulary**: learn (very short!) [week 2 vocabulary list](./vocabulary/week2/)
 - **Exercises**: drill verb forms; drill pronouns.
