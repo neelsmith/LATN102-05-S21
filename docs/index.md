@@ -16,7 +16,11 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 ## Announcements
 
-
+- **Feb. 8**: Repeating Zoom links for CBL labs:
+    - Monday 4:45 session: <https://holycross.zoom.us/j/94858327623>
+    - Monday 6:00 session: <https://holycross.zoom.us/j/96285498309>
+    - Tuesday 8:00 session: <https://holycross.zoom.us/j/97191045757>
+- **Feb. 8**:  [flow chart](./imgs/sot.png) for determining tense and mood in temporal clauses
 - **Feb. 5**: CBL lab sections begin next week *at the same times as last semester* (two on Monday, one on Tuesday, **not** on Wednesday as listed in STAR!)
 - **Feb. 5**: [first translation assignment now available](./checklist/translation1/)
 - [earlier announcements](./oldnews/)
@@ -24,11 +28,9 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 ## This week in summary
 
-Feb. 8-12:
-
-
 - **Main language features**: Review: class assignments review common pronouns and continue to review verb forms and constructions. New: fifth declension nouns; future indicative tense.
 - **Vocabulary**: learn (very short!) [week 2 vocabulary list](./vocabulary/week2/)
 - **Exercises**: drill verb forms; drill pronouns.
 - **Due dates this week**:  [translation 1](./checklist/translation1/) due Friday
+
 
