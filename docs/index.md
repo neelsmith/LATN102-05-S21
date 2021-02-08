@@ -22,8 +22,6 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
     - Monday 6:00 session: <https://holycross.zoom.us/j/96285498309>
     - Tuesday 8:00 session: <https://holycross.zoom.us/j/97191045757>
 - **Feb. 8**:  [flow chart](./imgs/sot.png) for determining tense and mood in temporal clauses
-- **Feb. 5**: CBL lab sections begin next week *at the same times as last semester* (two on Monday, one on Tuesday, **not** on Wednesday as listed in STAR!)
-- **Feb. 5**: [first translation assignment now available](./checklist/translation1/)
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
