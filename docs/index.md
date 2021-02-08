@@ -16,12 +16,12 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 ## Announcements
 
+- **Feb. 8**:  flow chart for determining tense and mood in temporal clauses [<img src="./imgs/sot.png" width="100">](./imgs/sot.png)
 - **Feb. 8**: If you have preferences for a topic in CBL lab projects, please notify Ainsley and Jack by Friday, Feb. 12.
 - **Feb. 8**: Repeating Zoom links for CBL labs:
     - Monday 4:45 session: <https://holycross.zoom.us/j/94858327623>
     - Monday 6:00 session: <https://holycross.zoom.us/j/96285498309>
     - Tuesday 8:00 session: <https://holycross.zoom.us/j/97191045757>
-- **Feb. 8**:  [flow chart](./imgs/sot.png) for determining tense and mood in temporal clauses
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
