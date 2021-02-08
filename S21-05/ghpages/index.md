@@ -16,7 +16,6 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 ## Announcements
 
-
 - **Feb. 8**: If you have preferences for a topic in CBL lab projects, please notify Ainsley and Jack by Friday, Feb. 12.
 - **Feb. 8**: Repeating Zoom links for CBL labs:
     - Monday 4:45 session: <https://holycross.zoom.us/j/94858327623>
@@ -34,6 +33,5 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 - **Vocabulary**: learn (very short!) [week 2 vocabulary list](./vocabulary/week2/)
 - **Exercises**: drill verb forms; drill pronouns.
 - **Due dates this week**:  [translation 1](./checklist/translation1/) due Friday
-
 
 
