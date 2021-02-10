@@ -32,6 +32,7 @@ Feb. 8-12:
 - **Main language features**: class assignments review common pronouns and continue to review verb forms and constructions. New: fifth declension nouns; future indicative tense.
 - **Vocabulary**: learn (very short!) [week 2 vocabulary list](./vocabulary/week2/)
 - **Exercises**: [drill verb forms; drill nouns and pronouns](./checklist/drills/week2/).
+- **Exercises**: [drill verb forms; drill nouns and pronoun](./checklist/drills/week2/).
 - **Due dates this week**:  [translation 1](./checklist/translation1/) due Friday
 
 
