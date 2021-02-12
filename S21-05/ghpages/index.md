@@ -17,9 +17,9 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 ## Announcements
 
 
-- **Feb 10**: *new section* in course web site:  materials to [help you review](../review/)
-- **Feb 9**: [week 2 drills](./checklist/drills/week2/) for future tense forms available
-- **Feb. 8**:  [flow chart](./imgs/sot.png) for determining tense and mood in temporal clauses<br/> [<img src="./imgs/sot.png" width="70">](./imgs/sot.png)
+
+- **Feb 11**: flow chart for understanding temporal clauses added to [review materials](../illustrations/)
+ - **Feb 10**: *new section* in course web site:  materials to [help you review](./review/)
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
@@ -31,6 +31,5 @@ Feb. 8-12:
 - **Vocabulary**: learn (very short!) [week 2 vocabulary list](./vocabulary/week2/)
 - **Exercises**: [drill verb forms; drill nouns and pronouns](./checklist/drills/week2/).
 - **Due dates this week**:  [translation 1](./checklist/translation1/) due Friday
-
 
 
