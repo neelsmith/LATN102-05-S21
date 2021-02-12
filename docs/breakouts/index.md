@@ -25,6 +25,14 @@ Create two synopses:
 1. third singular forms in the *present* system
 2. third singular forms in the *perfect* system
 
+
+Record your answers *with* the label so you can study from this later.  We will bring your synopses back to the whole group and compare across conjugations.
+
+> Example:  for *present indicative active*, if you had the verb *capio*, you would record
+>
+> `present indicative active` *capio*
+
+
 ### In the present system
 
 - present indicative active
