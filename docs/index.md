@@ -18,7 +18,8 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 
 
-- **Feb 11**: flow chart for understanding temporal clauses added to [review materials](../illustrations/)
+
+- **Feb 11**: flow chart for understanding temporal clauses added to [review materials](./illustrations/)
  - **Feb 10**: *new section* in course web site:  materials to [help you review](./review/)
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
