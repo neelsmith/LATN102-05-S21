@@ -30,7 +30,7 @@ Record your answers *with* the label so you can study from this later.  We will 
 
 > Example:  for *present indicative active*, if you had the verb *capio*, you would record
 >
-> `present indicative active` *capio*
+> `present indicative active` *capit*
 
 
 ### In the present system
