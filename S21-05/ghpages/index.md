@@ -16,6 +16,7 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 ## Announcements
 
+- **Feb. 15**: [breakout rooms](./breakouts/) for today
 - **Feb. 15**: deadlines for full-credit revisions to quiz 1 and translation 1 extended.  See [checklist](./checklist/) of assignments.
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
