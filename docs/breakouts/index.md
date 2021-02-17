@@ -7,6 +7,17 @@ nav_order: 3
 
 # Breakout rooms
 
+## Monday, Feb. 17
+
+
+For your assigned sentence, decide:
+
+- how will you organize your composition in clauses?
+- every sentence has an independent clause: what tense and mood will you use?
+- if your sentence includes a dependent construction, what construction will you use?
+- find the principal parts of all verbs you plan to use
+
+
 
 ## Monday, Feb. 15
 
@@ -28,6 +39,7 @@ The following pairs of simple English sentences (that is, a single independent c
 
 1. After Hercules killed Megara and their sons, Neleus was not willing to purify Hercules.  Neleus was then killed. 
 2. Hercules stole the Delphic tripod.  Jupiter ordered the tripod to be returned to Apollo.
+
 
 
 ## Friday, Feb. 12
