@@ -62,3 +62,6 @@ Plural
 | Dative   | <span class="decl3">quibus</span>        | <span class="decl3">quibus</span>    | <span class="decl3">quibus</span>    |
 | Accusative   | <span class="decl2">quos</span>        | <span class="decl2">quas</span>  | <span class="decl2">quae</span>  |
 | Ablative   | <span class="decl3">quibus</span>          | <span class="decl3">quibus</span>    |<span class="decl3">quibus</span>    |
+
+
+<link rel="stylesheet" type="text/css" href="./css/introlatin.css" />
