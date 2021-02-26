@@ -7,6 +7,7 @@ nav_order: 0
 
 
 # Latin 102-05: home page
+{: .no_toc }
 
 > In Latin 102, you encounter a historical language and culture, and engage with how that language and culture continue to shape structures of power today.
 
