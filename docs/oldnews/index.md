@@ -11,6 +11,9 @@ nav_order: 100
 ## Announcements
 
 
+- **Mar. 1**: last date to revise composition 1: *Mar. 11*.  **NB**: notes to help you revise now added to assignment [instructions](../checklist/composition1/).
+- **Feb. 26**:  Required vocabulary and practice drills for weeks 4 and 5 now posted. (See links below in [summary](../#current-unit-in-summary) of current unit.)
+- **Feb. 24**:  Please note changes to [daily schedule](../schedule/), and to [checklist of deadlines](./checklist/) for written assignments!
 - **Feb. 17**:  corrected instructions for [composition 1](../checklist/composition1/) now available.  <span class="giant">⚠️</span> Be sure you follow the corrected instrutions when you submit your composition!  
 - **Feb. 17**:  [breakouts](../breakouts/)
 - **Feb. 17**: reminder:  you can always find the semester-long vocabulary lists [here](https://lingualatina.github.io/textbook/vocabulary/)
