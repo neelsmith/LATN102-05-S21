@@ -21,6 +21,7 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 ## Announcements
 
+- **March 5**: initial draft of [translation 2](./checklist/translation2/) available
 - **March 2**: important updates to [CBL lab](./cbl-lab/) plans and schedules, including updated plans for [final project](./cbl-lab/project/).
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
