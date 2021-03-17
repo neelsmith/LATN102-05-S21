@@ -21,7 +21,9 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 ## Announcements
 
-- **March 2**: important updates to [CBL lab](./cbl-lab/) plans and schedules, including updated plans for [final project](./cbl-lab/project/).
+
+- **Wed., Mar. 17**:  sight reading day!  Reading a seventh-century biography of [St. Patrick](./assignments/patrick/)
+- **Wed., Mar. 17**:  updates to course schedule
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
@@ -30,11 +32,4 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 ## Current weeks in summary
 
 
-
-Feb. 24-Mar. 5:
-
-
-- **Main language features**:  the perfect passive participle; the present active participle; the ablative absolute.
-- **Vocabulary**:  know all four principal parts of [all verbs](https://lingualatina.github.io/textbook/vocabulary/verbs/) in the core vocabulary list
-- **Exercises**:  practice [principal parts](./checklist/drills/weeks4-5/) of all required verbs.
-- **Due dates this week**:quiz 2 due Monday, Mar. 1.
+Weeks of Mar. 15-26:  expressions of purpose; result  clauses

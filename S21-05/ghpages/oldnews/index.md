@@ -11,6 +11,9 @@ nav_order: 100
 ## Announcements
 
 
+- **March 8**:  7:00 tonight: joint CBL meeting with Stephanie Lindeborg ‘13. [Zoom link](https://holycross.zoom.us/j/99226233099).
+- **March 5**: initial draft of [translation 2](../checklist/translation2/) available
+- **March 2**: important updates to [CBL lab](../cbl-lab/) plans and schedules, including updated plans for [final project](./cbl-lab/project/).
 - **Mar. 1**: last date to revise composition 1: *Mar. 11*.  **NB**: notes to help you revise now added to assignment [instructions](../checklist/composition1/).
 - **Feb. 26**:  Required vocabulary and practice drills for weeks 4 and 5 now posted. (See links below in [summary](../#current-unit-in-summary) of current unit.)
 - **Feb. 24**:  Please note changes to [daily schedule](../schedule/), and to [checklist of deadlines](./checklist/) for written assignments!
@@ -37,6 +40,19 @@ nav_order: 100
 - **Feb. 1-2**: Refresh your memory of Latin by [trying these review questions before coming to class](../assignments/welcomeback/)!
 
 ## Weekly overviews
+
+
+
+
+Feb. 24-Mar. 5:
+
+
+- **Main language features**:  the perfect passive participle; the present active participle; the ablative absolute.
+- **Vocabulary**:  know all four principal parts of [all verbs](https://lingualatina.github.io/textbook/vocabulary/verbs/) in the core vocabulary list
+- **Exercises**:  practice [principal parts](../checklist/drills/weeks4-5/) of all required verbs.
+- **Due dates this week**:quiz 2 due Monday, Mar. 1.
+
+
 
 
 Feb. 15-19:
