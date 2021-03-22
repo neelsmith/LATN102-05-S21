@@ -7,6 +7,13 @@ nav_order: 3
 
 # Breakout rooms
 
+## Monday, March 22
+
+Analyze the following sentence: break it into verbal units; then translate. Finally, rewrite it using a purpose clause.
+
+> *Ulixes cum Diomede ad Iphigeniam missus est adducendam*
+
+
 
 ## Monday, Feb. 22
 
