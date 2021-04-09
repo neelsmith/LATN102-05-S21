@@ -14,8 +14,8 @@ nav_order: 0
 > In Latin 102, you encounter a historical language and culture, and engage with how that language and culture continue to shape structures of power today.
 
 
+Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/91307359728?pwd=YUNYUDNjTGE2YVpzRmR1VjQ1VFRVQT09)
 
-Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045?pwd=eEtBL1FkUnJZcURCeE9ETmxtMk9lUT09)
 
 
 
