@@ -8,9 +8,7 @@ nav_order: 2
 # Hyginus, chapter 30, section 1
 
 
-Title to the whole chapter:
-
-*HERCULIS ATHLA DUODECIM AB EURYSTHEO IMPERATA*
+Title to all of chapter 30:  **HERCULIS ATHLA DUODECIM AB EURYSTHEO IMPERATA**
 
 | | |
 | --- | --- |
@@ -24,4 +22,4 @@ Title to the whole chapter:
 
 *duabus* irregular form of *duo, duae, ,duo*, "two": fem.abl.pl.
 
-*unde* a subordinating conjunction, "from where" ("whence" in Victorian lexicon speak!)
+*unde* a subordinating conjunction, "from where" ("whence" in Victorian lexicon speak!). Like English "from which", the sense of *unde* can be literally spatial, or more metaphorically logical, as here.  
