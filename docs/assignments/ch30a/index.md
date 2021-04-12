@@ -22,4 +22,17 @@ Title to all of chapter 30:  **HERCULIS ATHLA DUODECIM AB EURYSTHEO IMPERATA**
 
 *duabus* irregular form of *duo, duae, ,duo*, "two": fem.abl.pl.
 
-*unde* a subordinating conjunction, "from where" ("whence" in Victorian lexicon speak!). Like English "from which", the sense of *unde* can be literally spatial, or more metaphorically logical, as here.  
+*unde* a subordinating conjunction, "from where" ("whence" in Victorian lexicon speak!). Like English "from which", the sense of *unde* can be literally spatial, or more metaphorically logical, as here.
+
+
+
+
+## Syntactic analysis
+
+> Infans cum esset, 
+
+dracones duos duabus manibus necauit, 
+
+> quos Iuno miserat, 
+
+>> unde primigenius est dictus
