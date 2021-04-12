@@ -22,3 +22,15 @@ Photograph of metope from Temple of Zeus, Olympia | `3` Hydram Lernaeam Typhonis
 *quicquid* neut. nom./acc. sg. from *quisquis*, a relative pronoun meaning "whoever", "each and every one"
 
 *unde* refer to note on [section 1](../ch30a/)
+
+
+
+## Syntactic analysis
+
+> Infans cum esset, 
+
+dracones duos duabus manibus necauit, 
+
+> quos Iuno miserat, 
+
+>> unde primigenius est dictus
