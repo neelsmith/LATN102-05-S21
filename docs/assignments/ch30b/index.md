@@ -23,14 +23,17 @@ Photograph of metope from Temple of Zeus, Olympia | `3` Hydram Lernaeam Typhonis
 
 *unde* refer to note on [section 1](../ch30a/)
 
+## Syntax
+
+`2`
+
+Leonem Nemeum, 
+
+> quem Luna nutrierat in antro amphistomo atrotum, 
+
+necauit, 
+
+> cuius pellem pro tegumento habuit.
 
 
-## Syntactic analysis
-
-> Infans cum esset, 
-
-dracones duos duabus manibus necauit, 
-
-> quos Iuno miserat, 
-
->> unde primigenius est dictus
+`3` TBA
