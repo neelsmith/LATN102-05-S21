@@ -7,6 +7,28 @@ nav_order: 3
 
 # Breakout rooms
 
+## Friday, Apr. 16
+
+
+Section 3 of chapter 30 has *four* sets of main sentences (either individual sentences, or multiple main sentences joined by `et`).  
+
+1. Find the indepedent (main) clause(s) in each sentence.
+2. Make a vocab list for the main clauses only.
+3. Translate the main clauses only.  If your main clause is long, focus first on the most basic components: subject, verb, direct object (if any).  Add adjectives, adverbs, prepositional phrases, or other descriptive vocabulary only after you've understand the basic structure of the sentence.
+
+Here's how they break down:
+
+
+`a`. Hydram Lernaeam Typhonis filiam cum capitibus nouem ad fontem Lernaeum interfecit. 
+
+`b`. haec tantam uim ueneni habuit ut afflatu homines necaret, et si quis eam dormientem transierat, uestigia eius afflabat et maiori cruciatu moriebatur. 
+
+`c`. hanc Minerua monstrante interfecit et exinterauit et eius felle sagittas suas tinxit; 
+
+`d`. itaque quicquid postea sagittis fixerat, mortem non effugiebat, unde postea et ipse periit in Phrygia.
+
+
+
 
 ## Monday, March 22
 
