@@ -27,11 +27,7 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 
 
-- **Friday, Apr. 16**: reading in [breakout rooms](./breakouts/)
-- New section to course web site!  [Reading Hyginus](./reading/)
-- Updated [schedule of classes](./schedule/) and [due dates](./checklist/):
-    - composition 3 dropped 
-    - translation 3 to be handed out next week
+- **April 18**: [Translation 3](./checklist/translation3/) available.
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
