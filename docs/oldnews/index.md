@@ -13,6 +13,11 @@ nav_order: 100
 
 
 
+- **Friday, Apr. 16**: reading in [breakout rooms](./breakouts/)
+- New section to course web site!  [Reading Hyginus](./reading/)
+- Updated [schedule of classes](./schedule/) and [due dates](./checklist/):
+    - composition 3 dropped 
+    - translation 3 to be handed out next week
 - **Mon., Mar. 22**:  [breakout rooms](../breakouts)
 - **Wed., Mar. 17**:  sight reading day!  Reading a seventh-century biography of [St. Patrick](../assignments/patrick/)
 - **Wed., Mar. 17**:  updates to course schedule
