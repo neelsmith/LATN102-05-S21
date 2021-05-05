@@ -18,6 +18,10 @@ Zoom for [class meetings MWF 11:45-12:35](https://holycross.zoom.us/j/9130735972
 
 
 
+## Extra end-of-semester drop-in hours
+
+- Friday, May 7: [1:00-2:30](https://holycross.zoom.us/j/92267686469)
+- Monday, May 10:  [11:30-1:30](https://holycross.zoom.us/j/92267686469)
 
 
 
