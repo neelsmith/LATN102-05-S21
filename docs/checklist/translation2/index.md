@@ -65,6 +65,12 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 8.  Identify the form of *exceptum*.
 9.  William Faulkner's novel *As I lay dying* takes its title from an English translation of a single word in *Odyssey* 11.424.  In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle.  Suggest one or more possible translations of Faulkner's title into Latin.
 
+
+## C. Translation
+
+Please translate the passage into idiomatic English.
+
+
 ## Submitting your work
 
 
